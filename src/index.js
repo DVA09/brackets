@@ -1,3 +1,6 @@
 module.exports = function check(str, bracketsConfig) {
-  // your solution
+  const counting = Math.round(str.length / 2);
+  const brackets = [];
+  let newStr = str;
+  
 }
